@@ -23,6 +23,7 @@ To get the client running...
 
 Go ahead and open up the client page in the browser if it doesn't open automatically (by default, this should be http://localhost:3000)
 
+
 ## Using the application
 
 Would you like to be the first to own a pre-owned hoverboard? Well, you're in luck, Todd's Pre-Owned Hoverboards has financing available!
